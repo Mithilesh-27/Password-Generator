@@ -61,6 +61,10 @@ A responsive password generator built with **React** and **Tailwind CSS**, with 
 
 * To adjust styling, edit the Tailwind classes in `App.jsx`.
 
+## Live Demo
+
+Check out the live version of the website here: [Springdale Public School](https://school-website-omega-gray.vercel.app/)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
