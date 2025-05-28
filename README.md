@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🔐 Password Generator App
 
 A responsive password generator built with **React** and **Tailwind CSS**, with real-time password creation based on user preferences for length, numbers, and special characters. Includes clipboard copy functionality and a toast notification using **react-toastify**.
