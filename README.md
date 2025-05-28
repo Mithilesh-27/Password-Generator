@@ -63,7 +63,7 @@ A responsive password generator built with **React** and **Tailwind CSS**, with 
 
 ## Live Demo
 
-Check out the live version of the website here: [Springdale Public School](https://school-website-omega-gray.vercel.app/)
+Check out the live version of the website here: [Password-Generator](https://password-generator-smoky-rho-17.vercel.app/)
 
 ## Contributing
 
