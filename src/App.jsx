@@ -90,7 +90,7 @@ function App() {
               defaultChecked={charAllowed}
               onChange={() => setCharAllowed(charAllowed => !charAllowed)}
             />
-            <label className='text-white'>Characters</label>
+            <label className='text-white'>Special Characters</label>
           </div>
         </div>
       </div>
